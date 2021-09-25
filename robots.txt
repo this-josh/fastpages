@@ -1,1 +1,1 @@
-Sitemap: https://this-josh.github.io/fastpages/sitemap.xml
+Sitemap: https://notes.joshkirk.co.uk/fastpages/sitemap.xml
